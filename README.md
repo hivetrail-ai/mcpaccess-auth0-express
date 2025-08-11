@@ -36,3 +36,7 @@ Role and scope checks for different MCP actions.
 Works alongside other Express middleware.
 
 Minimal boilerplate — focus on your MCP server logic, not on token handling.
+
+## License
+This package is **free to use for any purpose** (including commercial), but you **may not modify, redistribute, or create derivative works** without prior written permission.  
+See the [LICENSE](LICENSE) file for full details.
